@@ -13,7 +13,9 @@ Ex.pdf
 databases/
 #Para imagens:
 images/
-
+#Para checkpoints:
+.ipynb_checkpoints
+ 
 ### R ###
 # History files
 .Rhistory
