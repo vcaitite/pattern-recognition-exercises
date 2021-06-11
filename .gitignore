@@ -4,6 +4,9 @@
 #Para arquivos HTML:
 *.html
 
+#Para arquivos .zip:
+*.zip
+
 #Para arquivos LaTeX:
 *.tex
 
