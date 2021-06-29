@@ -7,3 +7,5 @@
 - List 2: Template Matching
 - List 3: K-nearest neighbors (KNN)
 - List 4: Support Vector Machine (SVM) 
+- List 5: Support Vector Machine (SVM) - Real problem application
+- Extra List: One Class SVM
