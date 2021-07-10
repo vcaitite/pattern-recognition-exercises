@@ -16,6 +16,13 @@ Ex.pdf
 databases/
 #Para imagens:
 images/
+
+#APIs baixadas:
+list_6/lssvm
+list_6/LSSVM
+list_6/utils
+
+
 #Para checkpoints:
 .ipynb_checkpoints
  
