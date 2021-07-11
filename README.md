@@ -8,4 +8,5 @@
 - List 3: K-nearest neighbors (KNN)
 - List 4: Support Vector Machine (SVM) 
 - List 5: Support Vector Machine (SVM) - Real problem application
+- List 6: Least Squares Support Vector Machine (LSSVM) - Real problem application
 - Extra List: One Class SVM
