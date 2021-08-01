@@ -10,4 +10,5 @@
 - List 5: Support Vector Machine (SVM) - Real problem application
 - List 6: Least Squares Support Vector Machine (LSSVM) - Real problem application
 - List 7: Bayes Classifier
+- List 8: Bayes Classifier applied to a multivariate problem.
 - Extra List: One Class SVM
