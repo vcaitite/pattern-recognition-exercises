@@ -11,4 +11,5 @@
 - List 6: Least Squares Support Vector Machine (LSSVM) - Real problem application
 - List 7: Bayes Classifier
 - List 8: Bayes Classifier applied to a multivariate problem.
+- List 9: Bayes Classifier with Density Estimation Using KDE.
 - Extra List: One Class SVM
