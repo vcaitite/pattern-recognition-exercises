@@ -12,4 +12,5 @@
 - List 7: Bayes Classifier
 - List 8: Bayes Classifier applied to a multivariate problem.
 - List 9: Bayes Classifier with Density Estimation Using KDE.
+- List 10: Facial Recognition and Feature Extraction using Bayes Classifier and PCA. 
 - Extra List: One Class SVM
