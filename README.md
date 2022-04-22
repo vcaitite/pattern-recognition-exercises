@@ -14,3 +14,4 @@
 - List 9: Bayes Classifier with Density Estimation Using KDE.
 - List 10: Facial Recognition and Feature Extraction using Bayes Classifier and PCA. 
 - Extra List: One Class SVM
+- Extra List 2: Metric Learning + KNN
