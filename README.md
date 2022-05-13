@@ -15,5 +15,5 @@
 - List 10: Facial Recognition and Feature Extraction using Bayes Classifier and PCA;
 - Extra List: One Class SVM;
 - Extra List 2: Metric Learning + KNN;
-- Extra List 3: Gabriel Graph + Bayes Classifier;
+- Extra List 3: Gabriel Graph + Bayes Classifier and Gabriel Graph + KNN with K=1;
 
