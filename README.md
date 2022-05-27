@@ -16,4 +16,5 @@
 - Extra List: One Class SVM;
 - Extra List 2: Metric Learning + KNN;
 - Extra List 3: Gabriel Graph + Bayes Classifier and Gabriel Graph + KNN with K=1;
-- Extra List 4: kMeans.
+- Extra List 4: kMeans;
+- Extra List 5: Bayes Classifier + Gaussian Mixtures;
